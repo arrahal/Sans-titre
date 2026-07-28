@@ -1,0 +1,6 @@
+{
+  "name": "Supervision Pédagogique - Fondation Zakoura",
+  "description": "Plateforme complète de gestion et suivi pédagogique pour les superviseurs de la Fondation Zakoura: statistiques, enseignants, écoles, groupes, visites, plannings, absences et rapports Word/PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
